@@ -38,7 +38,6 @@ Execute a aplicação:
 
 python main.py
 
-(Substitua nome_do_seu_ficheiro.py pelo nome que deu ao script, por exemplo, firemail_gui.py).
 
 📂 Estrutura do Código
 O código está organizado principalmente em duas classes:
