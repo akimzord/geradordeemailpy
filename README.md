@@ -1,10 +1,15 @@
 Gerador de E-mail - Gestor de E-mail Temporário
 Um gestor de e-mails temporários desktop, construído em Python com uma interface gráfica (GUI) utilizando Tkinter. A aplicação interage com a API do FireMail para criar e gerir endereços de e-mail descartáveis de forma simples e rápida.
 
+📥 Download
+Para baixar a versão já compilada para Windows, clique no link abaixo:
+
+Baixar FiremailGerenciador.exe
+
 ✨ Funcionalidades
 Geração Rápida: Crie novos endereços de e-mail temporários com um único clique.
 
-Caixa de Entrada Integrada: Visualize os e-mails recebidos diretamente na aplicação, com uma formatação clara que separa remetente, assunto e corpo da mensagem.
+Caixa de Entrada Integrada: Visualize os e-mails recebidos diretamente na aplicação, com uma formatação clara que separa remetente, assunto и corpo da mensagem.
 
 Gestão de E-mails: Todos os e-mails gerados são guardados localmente, permitindo-lhe aceder a eles sempre que precisar.
 
@@ -21,13 +26,13 @@ Tkinter: Biblioteca padrão do Python para a criação da interface gráfica.
 
 Requests: Biblioteca para realizar as chamadas HTTP à API do FireMail.
 
-🛠️ Como Executar
+🛠️ Como Executar (a partir do código)
 Para executar o projeto localmente, siga estes passos:
 
 Clone o repositório:
 
-git clone https://github.com/akimzord/geradordeemailpy.git
-cd seu-repositorio
+git clone [https://github.com/akimzord/geradordeemailpy.git](https://github.com/akimzord/geradordeemailpy.git)
+cd geradordeemailpy
 
 Instale as dependências:
 A única dependência externa é a biblioteca requests. Pode instalá-la usando o pip.
@@ -37,7 +42,6 @@ pip install requests
 Execute a aplicação:
 
 python main.py
-
 
 📂 Estrutura do Código
 O código está organizado principalmente em duas classes:
