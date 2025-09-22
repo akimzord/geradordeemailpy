@@ -4,12 +4,12 @@ Um gestor de e-mails temporários desktop, construído em Python com uma interfa
 📥 Download
 Para baixar a versão já compilada para Windows, clique no link abaixo:
 
-Baixar FiremailGerenciador.exe
+Baixar [FiremailGerenciador.exe](https://github.com/akimzord/geradordeemailpy/raw/refs/heads/main/FiremailGerenciador.exe)
 
 ✨ Funcionalidades
 Geração Rápida: Crie novos endereços de e-mail temporários com um único clique.
 
-Caixa de Entrada Integrada: Visualize os e-mails recebidos diretamente na aplicação, com uma formatação clara que separa remetente, assunto и corpo da mensagem.
+Caixa de Entrada Integrada: Visualize os e-mails recebidos diretamente na aplicação, com uma formatação clara que separa remetente, assunto e corpo da mensagem.
 
 Gestão de E-mails: Todos os e-mails gerados são guardados localmente, permitindo-lhe aceder a eles sempre que precisar.
 
